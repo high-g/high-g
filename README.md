@@ -7,9 +7,5 @@
 
 ## GitHub Readme Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=high-g&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=high-g" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=high-g&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=high-g)
