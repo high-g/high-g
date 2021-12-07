@@ -3,7 +3,7 @@
 
 - I'm [@high-g](https://twitter.com/high_g_engineer)
 - Front-End Engineer
-- Love JavaScript, React, dance, cats🐱
+- Love JavaScript, React, Dancing, Cats🐱
 
 ## GitHub Readme Stats
 
